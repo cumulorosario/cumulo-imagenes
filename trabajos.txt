@@ -1,0 +1,109 @@
+# ============================================================
+#  CÚMULO INGENIERÍA — Configuración de trabajos del portfolio
+# ============================================================
+#
+# CÓMO AGREGAR UN TRABAJO NUEVO:
+#   1. Subí las fotos al repositorio GitHub:
+#      https://github.com/cumulorosario/cumulo-imagenes
+#      (arrastrá los archivos directamente en el navegador)
+#   2. Copiá un bloque [trabajo_XX], cambiá el número
+#   3. Completá título, categoría, descripción
+#   4. En "fotos" poné los nombres de archivo separados por coma
+#   5. Guardá y subí este archivo al hosting — listo
+#
+# Las URLs se arman automáticamente así:
+#   https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/NOMBRE.jpg
+#
+# CATEGORÍAS DISPONIBLES:
+#   maquinas       → Máquinas
+#   mecanica       → Mecánica
+#   automatizacion → Automatización
+#
+# ============================================================
+
+[github]
+base = https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/trabajos
+
+# ============================================================
+#  TRABAJOS
+# ============================================================
+
+[trabajo_01]
+titulo          = Palomas para grúas portuarias
+categoria       = maquinas
+categoria_label = Máquinas
+descripcion     = Desarrollo y fabricación de palomas para guía de contenedores en grúas portuarias. Soluciones robustas adaptadas a cada equipo.
+fotos           = 01-a.jpg, 01-b.jpg, 01-c.jpg, 01-d.jpg
+
+[trabajo_02]
+titulo          = Banco de pruebas para servomotores
+categoria       = maquinas
+categoria_label = Máquinas
+descripcion     = Maquinaria a medida para validación de servomotores. Pruebas rigurosas de componentes críticos, eliminando riesgos y asegurando máxima fiabilidad.
+fotos           = 02-a.jpg, 02-b.jpg, 02-c.jpg
+
+[trabajo_03]
+titulo          = Reparación de rodillos de cinta transportadora
+categoria       = mecanica
+categoria_label = Mecánica
+descripcion     = Reparación integral de rodillos de cinta transportadora. Cada componente vuelve a funcionar con la precisión y confiabilidad que la industria necesita.
+fotos           = 03-a.jpg, 03-b.jpg, 03-c.jpg, 03-d.jpg
+
+[trabajo_04]
+titulo          = Tapa estrella de bomba — ingeniería inversa
+categoria       = mecanica
+categoria_label = Ingeniería Inversa
+descripcion     = Relevamiento de tapa estrella de bomba, generación de modelo 3D y fundición en hierro nodular. Solución cuando los repuestos originales ya no existen en el mercado.
+fotos           = 04-a.jpg, 04-b.jpg, 04-c.jpg, 04-d.jpg, 04-e.jpg, 04-f.jpg, 04-g.jpg, 04-h.jpg, 04-i.jpg, 04-j.jpg
+
+[trabajo_05]
+titulo          = Panzer / tortuga para traslado de cargas pesadas
+categoria       = maquinas
+categoria_label = Diseño CAD
+descripcion     = Diseño de plataforma tipo Panzer para traslado de cargas pesadas. Modelado 3D listo para fabricación.
+fotos           = 05-a.jpg
+
+[trabajo_06]
+titulo          = Barrera de acceso motorizada
+categoria       = automatizacion
+categoria_label = Automatización
+descripcion     = Diseño y fabricación de barreras para acceso a supermercados o countries. Accionamiento por control remoto o cableado. En acero 1010 o inoxidable.
+fotos           = 06-aa.jpg, 06-b.jpg, 06-c.jpg, 06-d.jpg, 06-e.jpg
+
+[trabajo_07]
+titulo          = Simulación de fundición — SolidCast
+categoria       = mecanica
+categoria_label = Ingeniería Inversa
+descripcion     = Optimización de solidificación en piezas de gran tamaño. Uso de enfriadores para reducir montantes, evitar porosidades y mejorar rendimiento de colada.
+fotos           = 07-a.jpg, 07-b.jpg, 07-c.jpg, 07-d.jpg
+
+[trabajo_08]
+titulo          = Mantenimiento de corona doble y eje
+categoria       = mecanica
+categoria_label = Mecánica
+descripcion     = Fabricación de eje nuevo, reacondicionamiento de corona doble y re-ensamblado completo del conjunto.
+fotos           = 08-a.jpg, 08-b.jpg, 08-c.jpg, 08-d.jpg, 08-e.jpg
+
+[trabajo_09]
+titulo          = Disco de freno para el agro
+categoria       = mecanica
+categoria_label = Diseño CAD
+descripcion     = Dibujo CAD y simulación de fundición de disco de freno para maquinaria agrícola con SolidCast. Optimización de montantes y enfriadores.
+fotos           = 09-a.jpg, 09-b.jpg
+
+[trabajo_10]
+titulo          = Balanza digital comparativa con conexión USB
+categoria       = automatizacion
+categoria_label = Automatización
+descripcion     = Diseño y fabricación completa de balanza con lógica digital, diseño electrónico, conexión USB y transmisión continua de datos para cadena mayorista.
+fotos           = 10-a.jpg, 10-b.jpg, 10-c.jpg
+
+[trabajo_11]
+titulo          = Horno de secado de piezas pintadas
+categoria       = automatizacion
+categoria_label = Automatización
+descripcion     = Horno con tubos radiantes, ventilación, red de gas y gabinete de control automatizado con sensores térmicos. Realizado para el Parque Industrial Alvear.
+fotos           = 11-a.jpg, 11-b.jpg, 11-c.jpg, 11-d.jpg, 11-e.jpg
+
+
+
