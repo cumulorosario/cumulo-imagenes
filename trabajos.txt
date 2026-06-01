@@ -29,14 +29,14 @@ base = https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/trab
 # ============================================================
 
 [trabajo_01]
-titulo          = Palomas para grúas portuarias
+titulo          = Palomas para Grúas Portuarias
 categoria       = maquinas
 categoria_label = Máquinas
 descripcion     = Desarrollo y fabricación de palomas para guía de contenedores en grúas portuarias. Soluciones robustas adaptadas a cada equipo.
 fotos           = 01-a.jpg, 01-b.jpg, 01-c.jpg, 01-d.jpg
 
 [trabajo_02]
-titulo          = Banco de pruebas para servomotores
+titulo          = Banco de Pruebas para servomotores
 categoria       = maquinas
 categoria_label = Máquinas
 descripcion     = Maquinaria a medida para validación de servomotores. Pruebas rigurosas de componentes críticos, eliminando riesgos y asegurando máxima fiabilidad.
