@@ -105,5 +105,10 @@ categoria_label = Automatización
 descripcion     = Horno con tubos radiantes, ventilación, red de gas y gabinete de control automatizado con sensores térmicos. Realizado para el Parque Industrial Alvear.
 fotos           = 11-a.jpg, 11-b.jpg, 11-c.jpg, 11-d.jpg, 11-e.jpg
 
-
+[trabajo_12]
+titulo          = Escalera y Pasarela para Oficinas
+categoria       = mecanica
+categoria_label = Diseño CAD
+descripcion     = Estructura diseñada a Medida hecha con perfileria soldada. Realizado para el Puerto.
+fotos           = 12-a.jpg, 12-b.jpg
 
