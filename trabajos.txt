@@ -33,7 +33,7 @@ titulo          = Palomas para Grúas Portuarias
 categoria       = maquinas
 categoria_label = Máquinas
 descripcion     = Desarrollo y fabricación de palomas para guía de contenedores en grúas portuarias. Soluciones robustas adaptadas a cada equipo.
-fotos           = 01-a.jpg, 01-b.jpg, 01-c.jpg, 01-d.jpg
+fotos           = 01-a.jpg, 01-b.jpg, 01-c.jpg, 01-d.jpg, 01-e.jpg, 01-f.jpg, 01-g.jpg, 01-h.jpg
 
 [trabajo_02]
 titulo          = Banco de Pruebas para servomotores
