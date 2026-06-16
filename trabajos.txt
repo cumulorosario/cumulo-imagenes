@@ -32,7 +32,7 @@ base = https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/trab
 titulo          = Palomas para Grúas Portuarias
 categoria       = maquinas
 categoria_label = Máquinas
-descripcion     = Desarrollo y fabricación de palomas para guía de contenedores en grúas portuarias. Soluciones robustas adaptadas a cada equipo.
+descripcion     = Desarrollo y fabricación de palomas para guía de Spreaders de contenedores en grúas portuarias. Soluciones robustas adaptadas a cada equipo.
 fotos           = 01-a.jpg, 01-b.jpg, 01-c.jpg, 01-d.jpg, 01-e.jpg, 01-f.jpg, 01-g.jpg, 01-h.jpg
 
 [trabajo_02]
@@ -53,7 +53,7 @@ fotos           = 03-a.jpg, 03-b.jpg, 03-c.jpg, 03-d.jpg
 titulo          = Tapa estrella de bomba — ingeniería inversa
 categoria       = mecanica
 categoria_label = Ingeniería Inversa
-descripcion     = Relevamiento de tapa estrella de bomba, generación de modelo 3D y fundición en hierro nodular. Solución cuando los repuestos originales ya no existen en el mercado.
+descripcion     = Relevamiento de tapa estrella de bomba, generación de modelo 3D y fundición en hierro nodular. Solución cuando los repuestos originales ya no existen en el mercado o se busca multiplicidad de proveedores.
 fotos           = 04-a.jpg, 04-b.jpg, 04-c.jpg, 04-d.jpg, 04-e.jpg, 04-f.jpg, 04-g.jpg, 04-h.jpg, 04-i.jpg, 04-j.jpg
 
 [trabajo_05]
