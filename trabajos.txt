@@ -117,5 +117,5 @@ titulo          = Porta Tablet de Seguridad para Spreaders
 categoria       = mecanica
 categoria_label = Diseño CAD
 descripcion     = Diseño, fabricación e instalación de Porta Tablet para Spreader. Brinda capacidad de utilizar sistema de gestion operativa de forma segura. Realizado para el Puerto.
-fotos           = 13-a.jpg, 13-b.jpg, 13-c.jpg, 13-d.jpg, 13-e.jpg
+fotos           = 13-a.jpg, 13-b.jpg, 13-c.jpg, 13-d.jpg, 13-e.jpg, 13-f.jpg, 13-g.jpg, 13-h.jpg, 13-i.jpg, 13-j.jpg, 13-k.jpg, 13-l.jpg
 
