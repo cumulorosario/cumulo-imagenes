@@ -123,11 +123,7 @@ fotos           = 13-a.jpeg, 13-b.jpeg, 13-c.jpeg, 13-d.jpeg, 13-f.jpeg, 13-g.jp
 titulo          = Ruedas de Fundición para Excaleras
 categoria       = mecanica
 categoria_label = Diseño CAD
-descripcion     = Del diseño al producto final: Ingeniería integral para máxima durabilidad 🛠️En muchos entornos industriales, las piezas estándar sufren fallas prematuras que detienen la producción. Ante esta problemática, un cliente se nos acercó porque sus ruedas se rompían frecuentemente. En Cúmulo Ingeniería nos encargamos de resolverlo con un enfoque de punta a punta:
-1️⃣ Relevamiento y diagnóstico: Analizamos las causas raíz de la rotura en el equipo.
-2️⃣ Rediseño y optimización: Modificamos la geometría y realizamos un cambio de material para mejorar notablemente su performance y resistencia.
-3️⃣ Fabricación de modelos y fundición: Desarrollamos los patrones y obtuvimos las piezas fundidas en el material adecuado.
-4️⃣ Mecanizado de precisión: Llevamos las piezas a las tolerancias exactas de alojamiento y ejes.
-5️⃣ Montaje final: Las entregamos instaladas en sus soportes, listas para colocar y poner en marcha directamente en el equipo Realizado para el Puerto.
+descripcion     = Del diseño al producto final: Ingeniería integral para máxima durabilidad 🛠️En muchos entornos industriales, las piezas estándar sufren fallas prematuras que detienen la producción. Ante esta problemática, un cliente se nos acercó porque sus ruedas se rompían frecuentemente. En Cúmulo Ingeniería nos encargamos de resolverlo con un enfoque de punta a punta:1️⃣ Relevamiento y diagnóstico: Analizamos las causas raíz de la rotura en el equipo.2️⃣ Rediseño y optimización: Modificamos la geometría y realizamos un cambio de material para mejorar notablemente su performance y resistencia.3️⃣ Fabricación de modelos y fundición: Desarrollamos los patrones y obtuvimos las piezas fundidas en el material adecuado.
+4️⃣ Mecanizado de precisión: Llevamos las piezas a las tolerancias exactas de alojamiento y ejes.5️⃣ Montaje final: Las entregamos instaladas en sus soportes, listas para colocar y poner en marcha directamente en el equipo Realizado para el Puerto.
 fotos           = 13-a.jpeg, 13-b.jpeg, 13-c.jpeg, 13-d.jpeg, 13-f.jpeg, 13-g.jpeg, 13-h.jpeg, 13-i.jpeg, 13-j.jpeg, 13-k.jpeg, 13-l.jpeg
 
