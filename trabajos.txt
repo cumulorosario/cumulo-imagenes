@@ -126,3 +126,10 @@ categoria_label = Diseño CAD
 descripcion     = Del diseño al producto final: Ingeniería integral para máxima durabilidad 🛠️En muchos entornos industriales, las piezas estándar sufren fallas prematuras que detienen la producción. Ante esta problemática, un cliente se nos acercó porque sus ruedas se rompían frecuentemente. En Cúmulo Ingeniería nos encargamos de resolverlo con un enfoque de punta a punta:1️⃣ Relevamiento y diagnóstico: Analizamos las causas raíz de la rotura en el equipo.2️⃣ Rediseño y optimización: Modificamos la geometría y realizamos un cambio de material para mejorar notablemente su performance y resistencia.3️⃣ Fabricación de modelos y fundición: Desarrollamos los patrones y obtuvimos las piezas fundidas en el material adecuado.4️⃣ Mecanizado de precisión: Llevamos las piezas a las tolerancias exactas de alojamiento y ejes.5️⃣ Montaje final: Las entregamos instaladas en sus soportes, listas para colocar y poner en marcha directamente en el equipo Realizado para el Puerto.
 fotos           = 14-a.jpeg, 14-b.jpeg, 14-c.jpeg, 14-d.jpeg, 14-e.jpeg
 
+[trabajo_14]
+titulo          = Monitoreo y Control de Variables
+categoria       = automatizacion
+categoria_label = Automatización
+descripcion     = Plataforma integral de monitoreo y control de variables y dispositivos. Es un sistema completo propietario con amplias posibilidades que permite tener paneles personalizados con acceso web y por aplicacion (Android) y con esta última tener la capacidad de recibir notificaciones y alarmas criticas que despiertan el movil para no perder procesos. Almacenamiento de telemetrias y filtrados por periodo, con reportes personalizados.
+fotos           = 15-a.png, 15-b.png, 15-c.png, 15-d.png, 15-e.png, 15-f.png, 15-g.png, 15-h.png, 15-i.png, 15-j.png
+
