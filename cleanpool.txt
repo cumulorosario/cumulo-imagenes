@@ -13,17 +13,17 @@
 #   2. En "fotos" poné los nombres de archivo separados por coma.
 #      La primera foto es la principal.
 #
-# Las URLs se arman automáticamente así:
-#   https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/cleanpool/NOMBRE.jpg
-#
 # CÓMO AGREGAR UN PRODUCTO NUEVO:
 #   Copiá un bloque [producto_XX], cambiá el número y completá los campos.
 #   Los productos aparecen en el orden en que están en este archivo.
+#   Los campos que no uses se pueden borrar.
 #
 # FORMATO DE LOS CAMPOS:
 #   descripcion     → para un párrafo nuevo, empezá la línea siguiente
 #                     con dos espacios (como en los ejemplos).
-#   caracteristicas → separadas con el signo |
+#   versiones, caracteristicas, incluye, montaje, aclaraciones
+#                   → elementos separados con el signo |
+#   versiones       → formato  Nombre: detalle | Nombre: detalle
 #   whatsapp_texto  → mensaje con el que se abre WhatsApp al tocar "Consultar".
 #
 # Para ocultar un producto sin borrarlo, poné:  oculto = si
@@ -38,67 +38,212 @@ instagram = https://www.instagram.com/cumulo.rosario/
 facebook  = https://www.facebook.com/cumulo.rosario
 
 # ============================================================
-#  PRODUCTOS
+#  IONIZACIÓN
 # ============================================================
 
 [producto_01]
 titulo          = Boya ionizadora solar
 categoria       = Ionización
-resumen         = Funciona con energía solar y no requiere instalación: se coloca en el agua y empieza a trabajar.
-descripcion     = El ionizador reemplaza en gran parte a los productos de pileta (hasta en un 80%) por los iones de cobre que libera, que son alguicidas por naturaleza. De esta manera disminuyen el mantenimiento y los costos. Al usar menos productos se pueden abrir los ojos debajo del agua sin que queden rojos, y no daña la piel ni el pelo.
-  Un panel solar superior genera una carga que pasa por dos electrodos: un resorte de acero inoxidable y un ánodo de cobre (consumible). El agua hace de conductora y lleva los iones de cobre por toda la pileta.
-  A las dos semanas se empieza a disminuir el consumo de productos de forma gradual, hasta llegar al punto de equilibrio de cada pileta. Una boya alcanza para una pileta de hasta 10 x 5 m; si es más grande se necesitan dos unidades o un ionizador electrónico.
-caracteristicas = Reduce el uso de cloro y químicos | Facilita el mantenimiento | Para piscinas de hasta 60.000 litros | Panel solar de vidrio super resistente | Ánodo de cobre de 80 mm de largo | No requiere instalación | Fácil de limpiar con su cepillo
-garantia        = 6 meses por defectos de fabricación
+resumen         = Funciona con energía solar y no requiere instalación: se coloca en la pileta y empieza a trabajar.
+descripcion     = Un panel solar de vidrio súper resistente genera la carga que hace trabajar al ánodo de cobre. El agua conduce los iones de cobre por toda la pileta y, como el cobre es alguicida por naturaleza, reemplaza hasta un 80% del cloro y los químicos.
+  Luego de 2 a 3 semanas en la piscina se empieza a reducir gradualmente el consumo de productos, hasta llegar al punto de equilibrio de cada pileta. El agua no daña el cabello ni irrita los ojos.
+  Como único mantenimiento, se limpia el ánodo con el cepillo incluido. El sulfato de cobre que se desprende se puede depositar dentro del skimmer, ya que es en sí mismo el alguicida.
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 60.000 litros | Panel solar de vidrio súper resistente | Ánodo de cobre de 80 mm, se cambia una vez al año | No requiere instalación | Producto ecofriendly
+incluye         = Boya con panel solar | Ánodo de cobre | Cepillo para mantenimiento
+montaje         = Colocar la boya boca abajo sobre un paño | Enroscar el ánodo de cobre hasta que haga tope, con la mano y sin herramientas | Colocar el resorte por fuera del ánodo y mantenerlo presionado para colocar el separador | Asegurar que el resorte esté en contacto con los bornes
+aclaraciones    = La boya funciona mientras reciba luz solar | El único mantenimiento es limpiar el ánodo con el cepillo incluido
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país. En Rosario, Funes y Pueblo Esther también con pago contra entrega.
-fotos           = IonizadorSolar.jpg
-whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar para piscinas
+fotos           = boya-solar.png
+whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar
 
 [producto_02]
-titulo          = Ionizador electrónico en bomba
+titulo          = Boya ionizadora solar Inverter
 categoria       = Ionización
-resumen         = Invisible para el usuario y autolimpiante. Se conecta junto con la bomba de filtrado.
-descripcion     = El ionizador reemplaza en gran parte a los productos de pileta (hasta en un 80%) por los iones de cobre que libera, que son alguicidas por naturaleza. De esta forma disminuyen el mantenimiento y los costos, y el agua es más amable con los ojos, la piel y el pelo.
-  Una fuente de alimentación conectada junto con la bomba de filtrado hace pasar la carga por dos electrodos de cobre ubicados en la tapa de bomba modificada (incluida). El control electrónico invierte las polaridades periódicamente, lo que convierte al sistema en autolimpiante.
-  A las dos semanas se empieza a disminuir el consumo de productos de forma gradual, hasta llegar al punto de equilibrio de cada pileta. Un ionizador alcanza para piletas de hasta 150.000 litros; para volúmenes mayores se fabrica a medida.
-caracteristicas = Reduce el uso de cloro y químicos | Facilita el mantenimiento | Para piscinas de hasta 150.000 litros | Fácil de instalar | Dos ánodos de cobre de 80 mm o 100 mm de largo | Invisible al usuario | Autolimpiante
-garantia        = 6 meses por defectos de fabricación
+resumen         = La boya autolimpiante: invierte la polaridad sola y no necesita limpieza.
+descripcion     = Tiene un panel solar de vidrio súper resistente y dos electrodos de cobre. Su inversor de polaridad hace que los electrodos se desgasten de forma pareja y se mantengan limpios, por lo que no requiere mantenimiento: solo el cambio de electrodos cuando se consumen.
+  A los 7 días de colocada en la piscina se empieza a reducir gradualmente el consumo de productos químicos, hasta un 80%. Cubre piletas de hasta 80.000 litros.
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 80.000 litros | Empieza a reducir químicos a los 7 días | Panel solar de vidrio súper resistente | Dos electrodos de cobre reemplazables | Autolimpiante, con inversor de polaridad | No requiere instalación | No daña el cabello ni irrita los ojos | Producto ecofriendly
+incluye         = Boya con panel solar | Dos electrodos de cobre
+montaje         = Colocar la boya boca abajo sobre un paño | Roscar los electrodos de cobre hasta que hagan tope, con la mano y sin herramientas
+aclaraciones    = La boya funciona mientras reciba luz solar | No necesita limpieza: solo cambiar los electrodos cuando se consumen
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = IonizadorElectronico.jpg
-whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico en bomba
+fotos           = boya-solar-inverter.png
+whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar Inverter
 
 [producto_03]
-titulo          = Luces LED macizas para piscinas de fibra o material
-categoria       = Iluminación
-resumen         = Placas LED completamente impermeabilizadas que no dependen de plásticos ni sellos.
-descripcion     = Fabricamos íntegramente luces de piscina robustas, pensadas para durar en uso constante o periódico. Partimos de las fallas más comunes de otros modelos: el resecamiento de los plásticos y el envejecimiento de los sellos, que terminan dejando entrar agua a la placa de luz.
-  Por eso desarrollamos las luces LED macizas: placas completamente impermeabilizadas que no dependen de plásticos ni sellos para mantenerse estancas. Hay modelos para piscinas de material y de fibra de vidrio, compatibles con pasamuros Vulcano.
-caracteristicas = Modelo de 17 cm de diámetro, 12 V y 12 W, de aplique para piscinas de hormigón o material | Modelo de 15 cm de diámetro, 12 V y 12 W, compatible con pasamuros Vulcano para fibra o material | Modelo de 7 cm de diámetro, 12 V y 3 W, compatible con pasamuros Vulcano para fibra o material | Fácil de instalar, con 2 m de cable RGB tipo taller incorporado | Fuentes de alimentación y controladores RGB con efectos para armar kits completos
-garantia        = 6 meses por defectos de fabricación
-envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = LuzPiscina.jpg
-whatsapp_texto  = ¡Hola! Quería consultar por las luces LED para piscinas
+titulo          = Ionizador electrónico de bomba Inverter
+categoria       = Ionización
+resumen         = Nuestro ionizador más completo: autolimpiante, invisible y para piletas de hasta 200.000 litros.
+descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, por lo que es imperceptible para el usuario. La inversión de polos está integrada en la tapa, así que no requiere ningún módulo inversor externo ni limpieza de ánodos.
+  Tiene luz testigo de funcionamiento y polaridad. Las dimensiones de la tapa se adaptan a la marca y modelo de cada bomba.
+versiones       = Tapa MAVI | Tapa BAT | Tapa BAP | Tapa BAE / BAS
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Ánodos de 25 mm o 16 mm de diámetro | No daña el cabello ni irrita los ojos | Producto ecofriendly
+incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Fuente de alimentación
+montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la tapa a un toma con la fuente provista
+aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Sin costo a todo el país
+fotos           = ionizador-bomba-inverter.jpg, ionizador-bomba-inverter-modelos.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico de bomba Inverter
 
 [producto_04]
-titulo          = Luces sin preinstalación para fibra o material
-categoria       = Iluminación
-resumen         = Iluminá tu piscina sin romper la mampostería ni la estructura de fibra.
-descripcion     = Una familia de luces con cuerpo de acero inoxidable y cartuchos luminosos completamente resinados, pensadas para durar en uso constante o periódico. Hay modelos que se colocan debajo de las losetas, con 1 o 2 cartuchos de luz, y un modelo para skimmer (Vulcano boca chica, boca ancha y otras marcas) que se instala en el premarco.
-  Los cables pasan por debajo de la pastina entre las losetas o por dentro del skimmer, sin obras. Se puede optar por luces de color RGB de 12 W o blancas de 21 W.
-caracteristicas = Modelo para skimmer boca chica: 26 x 32 cm, 2 cartuchos de luz | Modelo para skimmer boca ancha: 46 x 36 cm, 3 cartuchos de luz | Modelo sin skimmer doble: 26 x 22 cm, 2 cartuchos de luz | Modelo sin skimmer simple: 13 x 22 cm, 1 cartucho de luz | Fácil de instalar, con 2 m de cable tipo taller incorporado | Fuentes de alimentación y controladores RGB con efectos para armar kits completos
-garantia        = 6 meses por defectos de fabricación
-envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = LuzPiscinaSinPreinstalacion.jpg
-whatsapp_texto  = ¡Hola! Quería consultar por las luces de piscina sin preinstalación
+titulo          = Ionizador electrónico ECO
+categoria       = Ionización
+resumen         = La opción económica en tapa de bomba, para piletas de hasta 150.000 litros.
+descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, imperceptible para el usuario. Reduce el uso de cloro y otros químicos hasta en un 80%.
+  En este modelo, el usuario rota periódicamente los ánodos de cobre para invertir su polaridad y lograr un desgaste parejo. Las dimensiones de la tapa y el diámetro de los ánodos varían según la marca y modelo de la bomba.
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 150.000 litros | Funciona al mismo tiempo que la bomba | Imperceptible para el usuario | No daña el cabello ni irrita los ojos | Producto ecofriendly
+incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Cableado y fuente de 12 V
+montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la ficha de la fuente a la entrada del ionizador y la fuente a un toma
+aclaraciones    = Periódicamente hay que rotar los ánodos de cobre para invertir su polaridad y que se desgasten parejo | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Sin costo a todo el país
+fotos           = ionizador-eco.png
+whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico ECO
 
 [producto_05]
-titulo          = Control diferencial de calefacción solar con ionización
-categoria       = Climatización
-resumen         = Aprovecha al máximo los colectores solares y, de paso, mantiene el agua sana.
-descripcion     = El control usa dos sensores de temperatura: uno en la piscina y otro en los colectores solares. Solo enciende la bomba de recirculación cuando el agua de los colectores está 6 °C más caliente que la de la piscina, y la apaga cuando esa diferencia se reduce. Sigue así hasta alcanzar la temperatura fijada.
-  Cada vez que enciende la bomba también activa la salida de ionización. El accesorio de ionización es una tapa de filtro de bomba modificada con dos electrodos de cobre, y se puede adquirir por separado.
-caracteristicas = Mantiene la temperatura del agua en el punto deseado | Optimiza el uso de la bomba para calentar el agua | Fácil instalación en riel DIN, en cajas estándar | Dos modos de trabajo: automático y manual, para filtrar o hacer mantenimiento | Compatible con timers mediante salida de contacto seco | Con el accesorio de ionización: reduce cloro y químicos, para piscinas de hasta 150.000 litros, autolimpiante e invisible al usuario
-garantia        = 6 meses por defectos de fabricación
+titulo          = Ionizador electrónico en tubería 40 mm Inverter
+categoria       = Ionización
+resumen         = Se instala en la cañería de retorno, dentro de la cabina de la bomba, con fácil acceso.
+descripcion     = Ideal cuando no conviene modificar la tapa de la bomba: el ionizador se monta en una T de PVC de 40 mm sobre la tubería de retorno, antes o después del filtro de arena. Funciona al mismo tiempo que la bomba y es imperceptible para el usuario.
+  Incluye la inversión de polos en el circuito interno, por lo que no requiere ningún módulo inversor ni limpieza de ánodos.
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 150.000 litros | Inversión de polos incluida, sin módulo inversor | No requiere limpieza de ánodos ni mantenimiento | Instalación en la cabina de la bomba, de fácil acceso | No daña el cabello ni irrita los ojos | Producto ecofriendly
+incluye         = Dos ánodos de cobre | T de PVC de 40 mm | Sistema eléctrico | Fuente de 12 V
+montaje         = Apagar la bomba y localizar la tubería de retorno, antes o después del filtro de arena | Cortar la tubería en el lugar elegido para insertar la T de PVC de 40 mm | Instalar la T en posición horizontal, para que los ánodos queden completamente en contacto con el agua | Conectar los extremos de la tubería a los laterales de la T, asegurando un buen sellado | Montar el ionizador en la unión doble con el O-ring y ajustar la tuerca | Conectar la fuente de 12 V (desde el timer de la bomba) al ionizador | Encender la bomba y verificar que no haya fugas y que el ionizador esté operativo
+aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = AclimatadorDiferencial.jpg
-whatsapp_texto  = ¡Hola! Quería consultar por el control diferencial de calefacción solar
+fotos           = ionizador-tuberia.png, ionizador-tuberia-posiciones.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico en tubería de 40 mm
+
+# ============================================================
+#  CLIMATIZACIÓN
+# ============================================================
+
+[producto_06]
+titulo          = Aclimatador diferencial solar
+categoria       = Climatización
+resumen         = Aprovecha al máximo los colectores solares y, además, funciona como ionizador de bomba.
+descripcion     = Tiene dos sensores que miden la temperatura del agua de la piscina y de los colectores solares. En modo automático, enciende la bomba de recirculación cuando la piscina está por debajo de la temperatura deseada y los colectores están más de 6 °C más calientes. Cuando entra agua fría a los colectores se detiene, optimizando el rendimiento y ahorrando energía.
+  En modo manual enciende la bomba para limpieza, mantenimiento, vaciado o recreación. Además tiene función inverter incorporada: sumando los productos de ionización, tenés climatización e ionización en un solo módulo.
+caracteristicas = Dos sensores: piscina y colectores solares | Salida a relé para comandar la bomba de recirculación (máx. 6 A) | Mide la temperatura con precisión de 0,1 °C | Temperatura de corte regulable con perilla, entre 15 °C y 40 °C | Modos automático y manual | Bajo voltaje: fuente de 12 V incluida | Montaje en riel DIN, ocupa 3 módulos | Función inverter para ionización incorporada
+incluye         = Controlador | Fuente de 12 V | Sensores
+montaje         = Fijar el gabinete en un riel DIN | Colocar un sensor en los colectores solares | Colocar el otro sensor en la tapa de la bomba | Conectar el controlador a la fuente | Regular la temperatura a gusto
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Sin costo a todo el país
+fotos           = aclimatador-diferencial.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por el aclimatador diferencial solar
+
+# ============================================================
+#  ILUMINACIÓN
+# ============================================================
+
+[producto_07]
+titulo          = Luz para piscinas de fibra con pasamuros
+categoria       = Iluminación
+resumen         = Montaje push-in: se calza en el pasamuros Vulcano de 3/4" en segundos.
+descripcion     = Luz LED de 12 V y 21 W, de 150 mm de diámetro, diseñada para una duración prolongada y uso constante. Es compatible con el pasamuros marca Vulcano, tanto en piscinas de fibra como de material.
+versiones       = Dinámica (RGB): con controlador RGB elegís el color, la intensidad y distintos modos | Estática: luz fija blanca o azul, se conecta directo a la fuente de 12 V
+caracteristicas = Luz LED de 12 V y 21 W | Diámetro de 150 mm | Compatible con pasamuros Vulcano de 3/4" (fibra o material) | Diseñada para una duración prolongada y uso constante | Incluye 2 m de cable por luz
+montaje         = Pasar el cable por la preinstalación | Calzar la luz en el pasamuros | Conectar la luz al controlador RGB (dinámica) o a la fuente de 12 V (estática) | Disfrutar de la piscina iluminada
+aclaraciones    = La fuente y el controlador RGB se venden por separado
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = luz-fibra-dinamica.png, luz-fibra-estatica.png, luz-fibra-montaje.png, pasamuros-vulcano.png
+whatsapp_texto  = ¡Hola! Quería consultar por la luz para piscinas de fibra con pasamuros
+
+[producto_08]
+titulo          = Luz para piscinas de material
+categoria       = Iluminación
+resumen         = Luz de aplique de 180 mm, con tornillos y tarugos incluidos.
+descripcion     = Luz LED de 12 V y 21 W, de 180 mm de diámetro, diseñada para una duración prolongada y uso constante. Se fija con tornillos a la pared de la piscina y también puede usarse en piscinas de fibra que no tengan preinstalación con pasamuros.
+versiones       = Dinámica (RGB): con controlador RGB elegís el color, la intensidad y distintos modos | Estática: luz fija blanca o azul, se conecta directo a la fuente de 12 V
+caracteristicas = Luz LED de 12 V y 21 W | Diámetro de 180 mm | Para piscinas de material, o de fibra sin pasamuros | Diseñada para una duración prolongada y uso constante | Incluye 2 m de cable por luz
+incluye         = Luz | Tornillos y tarugos para la instalación
+montaje         = Posicionar la luz en el lugar deseado | Marcar los agujeros de montaje y retirar la luz | Perforar y colocar los tarugos plásticos | Pasar los cables a través de la cañería | Fijar la luz con los tornillos provistos | Conectar los cables al controlador RGB (dinámica) o a la fuente de 12 V (estática) | Disfrutar de la piscina iluminada
+aclaraciones    = La fuente y el controlador RGB se venden por separado
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = luz-material-dinamica.png, luz-material-estatica.png
+whatsapp_texto  = ¡Hola! Quería consultar por la luz para piscinas de material
+
+[producto_09]
+titulo          = Luz inoxidable
+categoria       = Iluminación
+resumen         = Marco de acero inoxidable estético y resistente, para piletas de material o de fibra.
+descripcion     = Un marco de acero inoxidable con un módulo LED de 12 V impermeabilizado con resina. Los módulos son intercambiables: ante cualquier mantenimiento se reemplaza solo el módulo y no todo el producto.
+versiones       = Dinámica (RGB): módulo RGB que se conecta a un controlador para elegir modos y colores | Estática: módulo blanco que se conecta directo a la fuente
+caracteristicas = Marco de acero inoxidable | Módulo de 12 V impermeabilizado con resina | Módulos intercambiables | Compatible con piletas de material o de fibra | Incluye 2 m de cable por módulo
+incluye         = Marco de inoxidable | Un módulo impermeabilizado | Cableado | Sistema de fijación
+montaje         = Posicionar la luz en el lugar deseado | Marcar los agujeros de montaje y retirar la luz | Perforar y colocar los tarugos plásticos | Pasar los cables a través de la cañería | Fijar la luz con los tornillos provistos | Conectar los cables al controlador RGB (dinámica) o a la fuente de 12 V (estática) | Disfrutar de la piscina iluminada
+aclaraciones    = La fuente y el controlador se venden por separado
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = inox-dinamica.png, inox-estatica.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la luz inoxidable
+
+[producto_10]
+titulo          = Luz modular simple sin preinstalación
+categoria       = Iluminación
+resumen         = Se fija por encima del nivel del agua y el cable pasa por la pastina: sin romper la piscina.
+descripcion     = Marco de acero inoxidable en forma de aplique con un módulo LED de 12 V impermeabilizado con resina. El marco se fija por encima del nivel del agua y el cable se pasa por debajo de la pastina entre las losetas, así que se puede iluminar una piscina que no tiene preinstalación.
+  Los módulos son intercambiables: ante cualquier mantenimiento se reemplaza solo el módulo y no todo el producto.
+versiones       = Dinámica (RGB): compatible con controladores RGB para elegir color, intensidad y modos | Estática: módulo blanco o azul que se conecta directo a la fuente
+caracteristicas = Marco de acero inoxidable en forma de aplique | Un módulo de 12 V impermeabilizado con resina | Fijación por encima del nivel del agua | No requiere preinstalación | Módulos intercambiables | Incluye 2 m de cable por módulo
+incluye         = Marco de inoxidable | Un módulo impermeabilizado | Cableado | Sistema de fijación
+montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros de montaje y retirar el marco | Perforar y colocar los tarugos plásticos | Fijar el marco con los tornillos provistos | Retirar la pastina entre las losetas | Pasar los cables | Volver a pastinar | Conectar los cables al controlador RGB (dinámica) o a la fuente de 12 V (estática)
+aclaraciones    = La fuente y el controlador RGB se venden por separado
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = modular-simple-dinamica.png, modular-simple-estatica.png, modular-simple-instalada.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la luz modular simple
+
+[producto_11]
+titulo          = Luz modular doble sin preinstalación
+categoria       = Iluminación
+resumen         = El doble de luz con el mismo montaje simple: dos módulos en un marco de inoxidable.
+descripcion     = Marco de acero inoxidable en forma de aplique con dos módulos LED de 12 V impermeabilizados con resina. Se fija por encima del nivel del agua y el cable se pasa por debajo de la pastina entre las losetas, sin necesidad de preinstalación.
+  Los módulos son intercambiables: ante cualquier mantenimiento se reemplaza solo el módulo y no todo el producto.
+versiones       = Dinámica (RGB): compatible con controladores RGB para elegir color, intensidad y modos | Estática: módulos blancos o azules que se conectan directo a la fuente
+caracteristicas = Marco de acero inoxidable en forma de aplique | Dos módulos de 12 V impermeabilizados con resina | Fijación por encima del nivel del agua | No requiere preinstalación | Módulos intercambiables | Incluye 2 m de cable por módulo
+incluye         = Marco de inoxidable | Dos módulos impermeabilizados | Cableado | Sistema de fijación
+montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros de montaje y retirar el marco | Perforar y colocar los tarugos plásticos | Fijar el marco con los tornillos provistos | Retirar la pastina entre las losetas | Pasar los cables | Volver a pastinar | Conectar los cables al controlador RGB (dinámica) o a la fuente de 12 V (estática)
+aclaraciones    = La fuente y el controlador RGB se venden por separado
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = modular-doble-dinamica.jpg, modular-doble-estatica.png, modular-doble-instalada.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la luz modular doble
+
+[producto_12]
+titulo          = Luz para skimmer boca chica, sin perforación
+categoria       = Iluminación
+resumen         = Iluminá tu piscina en minutos, sin perforarla y sin riesgo de filtraciones.
+descripcion     = Un marco de acero inoxidable en forma de aplique que se fija al contramarco del skimmer, con dos módulos LED impermeabilizados con resina. El cable pasa por dentro del skimmer, así que no hay que perforar la piscina, no se arriesga a filtraciones y no hace falta contratar instaladores.
+  Los módulos son intercambiables: ante cualquier mantenimiento se reemplaza solo el módulo. Compatible con skimmer de boca chica (aprox. 260 x 195 mm).
+versiones       = Dinámica (RGB): incluye controlador RGB con control remoto para elegir color, intensidad y modos | Estática: módulos blancos o azules que se conectan directo a la fuente
+caracteristicas = Marco de acero inoxidable que se fija al contramarco del skimmer | Dos módulos impermeabilizados con resina, intercambiables | No requiere perforar la piscina | Instalación en minutos | Para skimmer de boca chica | Incluye 2 m de cable por módulo
+incluye         = Marco de inoxidable | Dos módulos impermeabilizados | Cableado y fuente de 12 V | Controlador RGB (solo versión dinámica) | Sistema de fijación al skimmer
+montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte inferior para pasar el cable | Pasar el cable de los módulos por el interior del skimmer | Fijar el marco de inoxidable al contramarco del skimmer con los dos tornillos incluidos | Volver a colocar el marco del skimmer | Conectar el cable de los módulos al controlador RGB según el código de colores (dinámica) o a la fuente (estática) | Conectar a un toma con la fuente incluida
+aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Sin costo a todo el país
+fotos           = skimmer-chica-dinamica.png, skimmer-chica-estatica.png, skimmer-chica-medidas.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca chica
+
+[producto_13]
+titulo          = Luz para skimmer boca ancha, sin perforación
+categoria       = Iluminación
+resumen         = Tres módulos de luz que se montan en el skimmer de boca ancha, sin perforar la piscina.
+descripcion     = Un marco de acero inoxidable en forma de aplique que se fija al contramarco del skimmer, con tres módulos LED impermeabilizados con resina. El cable pasa por dentro del skimmer, así que no hay que perforar la piscina, no se arriesga a filtraciones y no hace falta contratar instaladores.
+  Los módulos son intercambiables: ante cualquier mantenimiento se reemplaza solo el módulo. Compatible con skimmer de boca ancha (aprox. 455 x 240 mm).
+versiones       = Dinámica (RGB): incluye controlador RGB con control remoto para elegir color, intensidad y modos | Estática: módulos blancos o azules que se conectan directo a la fuente
+caracteristicas = Marco de acero inoxidable que se fija al contramarco del skimmer | Tres módulos impermeabilizados con resina, intercambiables | No requiere perforar la piscina | Instalación en minutos | Para skimmer de boca ancha | Incluye 2 m de cable por módulo
+incluye         = Marco de inoxidable | Tres módulos impermeabilizados | Cableado y fuente de 12 V | Controlador RGB (solo versión dinámica) | Sistema de fijación al skimmer
+montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte inferior para pasar el cable | Pasar el cable de los módulos por el interior del skimmer | Fijar el marco de inoxidable al contramarco del skimmer con los dos tornillos incluidos | Volver a colocar el marco del skimmer | Conectar el cable de los módulos al controlador RGB según el código de colores (dinámica) o a la fuente (estática) | Conectar a un toma con la fuente incluida
+aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
+garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
+envio           = Sin costo a todo el país
+fotos           = skimmer-ancha-dinamica.jpg, skimmer-ancha-estatica.jpg, skimmer-ancha-medidas.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca ancha
