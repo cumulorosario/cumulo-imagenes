@@ -197,7 +197,7 @@ montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros 
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = 10-a.png, 10-b.png, 10-c.jpg
+fotos           = 10-a.png, 10-b.png, 10-c.jpg, 10-d.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz modular simple
 
 [producto_11]
@@ -213,7 +213,7 @@ montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros 
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = 11-a.jpg, 11-b.png, 11-c.jpg
+fotos           = 11-a.png, 11-b.png, 11-c.jpg, 11-d.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz modular doble
 
 [producto_12]
@@ -229,7 +229,7 @@ montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte 
 aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = 12-a.png, 12-b.png, 12-c.jpg
+fotos           = 12-a.png, 12-b.png, 12-c.jpg, 12-d.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca chica
 
 [producto_13]
