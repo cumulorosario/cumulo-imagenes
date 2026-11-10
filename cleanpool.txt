@@ -1,0 +1,104 @@
+# ============================================================
+#  CLEANPOOL — Configuración de productos
+#  (página: cumuloingenieria.com.ar/Cleanpool/)
+# ============================================================
+#
+# Este archivo se edita directamente en GitHub (ícono del lápiz)
+# y la página lo lee sola: no hace falta tocar el HTML.
+# Los cambios pueden tardar unos minutos en verse.
+#
+# CÓMO CAMBIAR O AGREGAR FOTOS:
+#   1. Subí las fotos a la carpeta "cleanpool" del repositorio:
+#      https://github.com/cumulorosario/cumulo-imagenes
+#   2. En "fotos" poné los nombres de archivo separados por coma.
+#      La primera foto es la principal.
+#
+# Las URLs se arman automáticamente así:
+#   https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/cleanpool/NOMBRE.jpg
+#
+# CÓMO AGREGAR UN PRODUCTO NUEVO:
+#   Copiá un bloque [producto_XX], cambiá el número y completá los campos.
+#   Los productos aparecen en el orden en que están en este archivo.
+#
+# FORMATO DE LOS CAMPOS:
+#   descripcion     → para un párrafo nuevo, empezá la línea siguiente
+#                     con dos espacios (como en los ejemplos).
+#   caracteristicas → separadas con el signo |
+#   whatsapp_texto  → mensaje con el que se abre WhatsApp al tocar "Consultar".
+#
+# Para ocultar un producto sin borrarlo, poné:  oculto = si
+# ============================================================
+
+[github]
+base = https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/cleanpool
+
+[contacto]
+whatsapp  = 5493413818760
+instagram = https://www.instagram.com/cumulo.rosario/
+facebook  = https://www.facebook.com/cumulo.rosario
+
+# ============================================================
+#  PRODUCTOS
+# ============================================================
+
+[producto_01]
+titulo          = Boya ionizadora solar
+categoria       = Ionización
+resumen         = Funciona con energía solar y no requiere instalación: se coloca en el agua y empieza a trabajar.
+descripcion     = El ionizador reemplaza en gran parte a los productos de pileta (hasta en un 80%) por los iones de cobre que libera, que son alguicidas por naturaleza. De esta manera disminuyen el mantenimiento y los costos. Al usar menos productos se pueden abrir los ojos debajo del agua sin que queden rojos, y no daña la piel ni el pelo.
+  Un panel solar superior genera una carga que pasa por dos electrodos: un resorte de acero inoxidable y un ánodo de cobre (consumible). El agua hace de conductora y lleva los iones de cobre por toda la pileta.
+  A las dos semanas se empieza a disminuir el consumo de productos de forma gradual, hasta llegar al punto de equilibrio de cada pileta. Una boya alcanza para una pileta de hasta 10 x 5 m; si es más grande se necesitan dos unidades o un ionizador electrónico.
+caracteristicas = Reduce el uso de cloro y químicos | Facilita el mantenimiento | Para piscinas de hasta 60.000 litros | Panel solar de vidrio super resistente | Ánodo de cobre de 80 mm de largo | No requiere instalación | Fácil de limpiar con su cepillo
+garantia        = 6 meses por defectos de fabricación
+envio           = Sin costo a todo el país. En Rosario, Funes y Pueblo Esther también con pago contra entrega.
+fotos           = IonizadorSolar.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar para piscinas
+
+[producto_02]
+titulo          = Ionizador electrónico en bomba
+categoria       = Ionización
+resumen         = Invisible para el usuario y autolimpiante. Se conecta junto con la bomba de filtrado.
+descripcion     = El ionizador reemplaza en gran parte a los productos de pileta (hasta en un 80%) por los iones de cobre que libera, que son alguicidas por naturaleza. De esta forma disminuyen el mantenimiento y los costos, y el agua es más amable con los ojos, la piel y el pelo.
+  Una fuente de alimentación conectada junto con la bomba de filtrado hace pasar la carga por dos electrodos de cobre ubicados en la tapa de bomba modificada (incluida). El control electrónico invierte las polaridades periódicamente, lo que convierte al sistema en autolimpiante.
+  A las dos semanas se empieza a disminuir el consumo de productos de forma gradual, hasta llegar al punto de equilibrio de cada pileta. Un ionizador alcanza para piletas de hasta 150.000 litros; para volúmenes mayores se fabrica a medida.
+caracteristicas = Reduce el uso de cloro y químicos | Facilita el mantenimiento | Para piscinas de hasta 150.000 litros | Fácil de instalar | Dos ánodos de cobre de 80 mm o 100 mm de largo | Invisible al usuario | Autolimpiante
+garantia        = 6 meses por defectos de fabricación
+envio           = Sin costo a todo el país
+fotos           = IonizadorElectronico.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico en bomba
+
+[producto_03]
+titulo          = Luces LED macizas para piscinas de fibra o material
+categoria       = Iluminación
+resumen         = Placas LED completamente impermeabilizadas que no dependen de plásticos ni sellos.
+descripcion     = Fabricamos íntegramente luces de piscina robustas, pensadas para durar en uso constante o periódico. Partimos de las fallas más comunes de otros modelos: el resecamiento de los plásticos y el envejecimiento de los sellos, que terminan dejando entrar agua a la placa de luz.
+  Por eso desarrollamos las luces LED macizas: placas completamente impermeabilizadas que no dependen de plásticos ni sellos para mantenerse estancas. Hay modelos para piscinas de material y de fibra de vidrio, compatibles con pasamuros Vulcano.
+caracteristicas = Modelo de 17 cm de diámetro, 12 V y 12 W, de aplique para piscinas de hormigón o material | Modelo de 15 cm de diámetro, 12 V y 12 W, compatible con pasamuros Vulcano para fibra o material | Modelo de 7 cm de diámetro, 12 V y 3 W, compatible con pasamuros Vulcano para fibra o material | Fácil de instalar, con 2 m de cable RGB tipo taller incorporado | Fuentes de alimentación y controladores RGB con efectos para armar kits completos
+garantia        = 6 meses por defectos de fabricación
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = LuzPiscina.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por las luces LED para piscinas
+
+[producto_04]
+titulo          = Luces sin preinstalación para fibra o material
+categoria       = Iluminación
+resumen         = Iluminá tu piscina sin romper la mampostería ni la estructura de fibra.
+descripcion     = Una familia de luces con cuerpo de acero inoxidable y cartuchos luminosos completamente resinados, pensadas para durar en uso constante o periódico. Hay modelos que se colocan debajo de las losetas, con 1 o 2 cartuchos de luz, y un modelo para skimmer (Vulcano boca chica, boca ancha y otras marcas) que se instala en el premarco.
+  Los cables pasan por debajo de la pastina entre las losetas o por dentro del skimmer, sin obras. Se puede optar por luces de color RGB de 12 W o blancas de 21 W.
+caracteristicas = Modelo para skimmer boca chica: 26 x 32 cm, 2 cartuchos de luz | Modelo para skimmer boca ancha: 46 x 36 cm, 3 cartuchos de luz | Modelo sin skimmer doble: 26 x 22 cm, 2 cartuchos de luz | Modelo sin skimmer simple: 13 x 22 cm, 1 cartucho de luz | Fácil de instalar, con 2 m de cable tipo taller incorporado | Fuentes de alimentación y controladores RGB con efectos para armar kits completos
+garantia        = 6 meses por defectos de fabricación
+envio           = Kits de 2 luces o más, sin costo a todo el país
+fotos           = LuzPiscinaSinPreinstalacion.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por las luces de piscina sin preinstalación
+
+[producto_05]
+titulo          = Control diferencial de calefacción solar con ionización
+categoria       = Climatización
+resumen         = Aprovecha al máximo los colectores solares y, de paso, mantiene el agua sana.
+descripcion     = El control usa dos sensores de temperatura: uno en la piscina y otro en los colectores solares. Solo enciende la bomba de recirculación cuando el agua de los colectores está 6 °C más caliente que la de la piscina, y la apaga cuando esa diferencia se reduce. Sigue así hasta alcanzar la temperatura fijada.
+  Cada vez que enciende la bomba también activa la salida de ionización. El accesorio de ionización es una tapa de filtro de bomba modificada con dos electrodos de cobre, y se puede adquirir por separado.
+caracteristicas = Mantiene la temperatura del agua en el punto deseado | Optimiza el uso de la bomba para calentar el agua | Fácil instalación en riel DIN, en cajas estándar | Dos modos de trabajo: automático y manual, para filtrar o hacer mantenimiento | Compatible con timers mediante salida de contacto seco | Con el accesorio de ionización: reduce cloro y químicos, para piscinas de hasta 150.000 litros, autolimpiante e invisible al usuario
+garantia        = 6 meses por defectos de fabricación
+envio           = Sin costo a todo el país
+fotos           = AclimatadorDiferencial.jpg
+whatsapp_texto  = ¡Hola! Quería consultar por el control diferencial de calefacción solar

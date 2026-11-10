@@ -1,0 +1,14 @@
+Carpeta de fotos de la página Cleanpool (cumuloingenieria.com.ar/Cleanpool/).
+
+Subí acá las fotos de los productos. Los nombres tienen que coincidir
+con los que figuran en el campo "fotos" de cleanpool.txt (en la raíz del repositorio).
+
+Nombres que ya usa la página:
+  IonizadorSolar.jpg
+  IonizadorElectronico.jpg
+  LuzPiscina.jpg
+  LuzPiscinaSinPreinstalacion.jpg
+  AclimatadorDiferencial.jpg
+
+Podés agregar más fotos por producto (ej. IonizadorSolar-2.jpg) y sumarlas
+en cleanpool.txt separadas por coma: fotos = IonizadorSolar.jpg, IonizadorSolar-2.jpg
