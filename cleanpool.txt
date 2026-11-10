@@ -33,7 +33,7 @@
 base = https://raw.githubusercontent.com/cumulorosario/cumulo-imagenes/main/cleanpool
 
 [contacto]
-whatsapp  = 5493413818760
+whatsapp  = 5493416757648
 instagram = https://www.instagram.com/cumulo.rosario/
 facebook  = https://www.facebook.com/cumulo.rosario
 
