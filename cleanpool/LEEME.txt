@@ -1,0 +1,10 @@
+Carpeta de fotos de la página Cleanpool (cumuloingenieria.com.ar/Cleanpool/).
+
+Las fotos se nombran según el orden del producto en la página:
+  1-a.png, 1-b.png ... para el producto 1
+  2-a.png ... para el producto 2, y así sucesivamente.
+La letra "a" es la foto principal.
+
+El número corresponde al orden de los bloques [producto_XX] en cleanpool.txt
+(en la raíz del repositorio). Si agregás una foto (ej. 3-c.jpg), sumala en el
+campo "fotos" de ese producto, separada por coma.
