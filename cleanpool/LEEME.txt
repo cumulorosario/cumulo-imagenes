@@ -1,8 +1,0 @@
-Carpeta de fotos de la página Cleanpool (cumuloingenieria.com.ar/Cleanpool/).
-
-Las fotos de esta carpeta se recortaron de las fichas técnicas de CleanPool.
-Para cambiar una foto, subí un archivo nuevo con el mismo nombre (reemplaza al anterior),
-o subí uno con otro nombre y actualizá el campo "fotos" del producto en cleanpool.txt
-(en la raíz del repositorio). La primera foto de la lista es la principal.
-
-Formatos recomendados: PNG con fondo transparente o JPG con fondo blanco, de unos 900 x 900 px.
