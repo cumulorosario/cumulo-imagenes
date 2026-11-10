@@ -54,7 +54,7 @@ montaje         = Colocar la boya boca abajo sobre un paño | Enroscar el ánodo
 aclaraciones    = La boya funciona mientras reciba luz solar | El único mantenimiento es limpiar el ánodo con el cepillo incluido
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país. En Rosario, Funes y Pueblo Esther también con pago contra entrega.
-fotos           = boya-solar.png
+fotos           = 1-a.png
 whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar
 
 [producto_02]
@@ -69,7 +69,7 @@ montaje         = Colocar la boya boca abajo sobre un paño | Roscar los electro
 aclaraciones    = La boya funciona mientras reciba luz solar | No necesita limpieza: solo cambiar los electrodos cuando se consumen
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = boya-solar-inverter.png
+fotos           = 2-a.png
 whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar Inverter
 
 [producto_03]
@@ -85,7 +85,7 @@ montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que 
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = ionizador-bomba-inverter.jpg, ionizador-bomba-inverter-modelos.jpg
+fotos           = 3-a.jpg, 3-b.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico de bomba Inverter
 
 [producto_04]
@@ -100,7 +100,7 @@ montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que 
 aclaraciones    = Periódicamente hay que rotar los ánodos de cobre para invertir su polaridad y que se desgasten parejo | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = ionizador-eco.png
+fotos           = 4-a.png
 whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico ECO
 
 [producto_05]
@@ -115,7 +115,7 @@ montaje         = Apagar la bomba y localizar la tubería de retorno, antes o de
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = ionizador-tuberia.png, ionizador-tuberia-posiciones.jpg
+fotos           = 5-a.png, 5-b.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico en tubería de 40 mm
 
 # ============================================================
@@ -133,7 +133,7 @@ incluye         = Controlador | Fuente de 12 V | Sensores
 montaje         = Fijar el gabinete en un riel DIN | Colocar un sensor en los colectores solares | Colocar el otro sensor en la tapa de la bomba | Conectar el controlador a la fuente | Regular la temperatura a gusto
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = aclimatador-diferencial.jpg
+fotos           = 6-a.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por el aclimatador diferencial solar
 
 # ============================================================
@@ -151,7 +151,7 @@ montaje         = Pasar el cable por la preinstalación | Calzar la luz en el pa
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = luz-fibra-dinamica.png, luz-fibra-estatica.png, luz-fibra-montaje.png, pasamuros-vulcano.png
+fotos           = 7-a.png, 7-b.png, 7-c.png, 7-d.png
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para piscinas de fibra con pasamuros
 
 [producto_08]
@@ -166,7 +166,7 @@ montaje         = Posicionar la luz en el lugar deseado | Marcar los agujeros de
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = luz-material-dinamica.png, luz-material-estatica.png
+fotos           = 8-a.png, 8-b.png
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para piscinas de material
 
 [producto_09]
@@ -181,7 +181,7 @@ montaje         = Posicionar la luz en el lugar deseado | Marcar los agujeros de
 aclaraciones    = La fuente y el controlador se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = inox-dinamica.png, inox-estatica.jpg
+fotos           = 9-a.png, 9-b.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz inoxidable
 
 [producto_10]
@@ -197,7 +197,7 @@ montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros 
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = modular-simple-dinamica.png, modular-simple-estatica.png, modular-simple-instalada.jpg
+fotos           = 10-a.png, 10-b.png, 10-c.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz modular simple
 
 [producto_11]
@@ -213,7 +213,7 @@ montaje         = Posicionar el marco en el lugar deseado | Marcar los agujeros 
 aclaraciones    = La fuente y el controlador RGB se venden por separado
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Kits de 2 luces o más, sin costo a todo el país
-fotos           = modular-doble-dinamica.jpg, modular-doble-estatica.png, modular-doble-instalada.jpg
+fotos           = 11-a.jpg, 11-b.png, 11-c.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz modular doble
 
 [producto_12]
@@ -229,7 +229,7 @@ montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte 
 aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = skimmer-chica-dinamica.png, skimmer-chica-estatica.png, skimmer-chica-medidas.jpg
+fotos           = 12-a.png, 12-b.png, 12-c.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca chica
 
 [producto_13]
@@ -245,5 +245,5 @@ montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte 
 aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = skimmer-ancha-dinamica.jpg, skimmer-ancha-estatica.jpg, skimmer-ancha-medidas.jpg
+fotos           = 13-a.jpg, 13-b.jpg, 13-c.jpg
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca ancha
