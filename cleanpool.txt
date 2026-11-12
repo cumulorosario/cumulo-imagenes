@@ -53,10 +53,10 @@ facebook  = https://www.facebook.com/cumulo.rosario
 titulo          = Boya ionizadora solar
 categoria       = Ionización
 resumen         = Funciona con energía solar y no requiere instalación: se coloca en la pileta y empieza a trabajar.
-descripcion     = Un panel solar de vidrio súper resistente genera la carga que hace trabajar al ánodo de cobre. El agua conduce los iones de cobre por toda la pileta y, como el cobre es alguicida por naturaleza, reemplaza hasta un 80% del cloro y los químicos.
-  Luego de 2 a 3 semanas en la piscina se empieza a reducir gradualmente el consumo de productos, hasta llegar al punto de equilibrio de cada pileta. El agua no daña el cabello ni irrita los ojos.
-  Como único mantenimiento, se limpia el ánodo con el cepillo incluido. El sulfato de cobre que se desprende se puede depositar dentro del skimmer, ya que es en sí mismo el alguicida.
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 60.000 litros | Panel solar de vidrio súper resistente | Ánodo de cobre de 80 mm, se cambia una vez al año | No requiere instalación | Producto ecofriendly
+descripcion     = Un panel solar de vidrio súper resistente genera la carga que hace trabajar al ánodo de cobre. El agua lleva los iones de cobre por toda la pileta, lo que permite reducir hasta un 80% el consumo de productos de pileta.
+  Luego de 2 a 3 semanas en la piscina se empieza a reducir gradualmente el consumo de productos, hasta llegar al punto de equilibrio de cada pileta.
+  Como único mantenimiento, se limpia el ánodo con el cepillo incluido. El residuo que se desprende del ánodo se puede depositar dentro del skimmer.
+caracteristicas = Reduce hasta un 80% el consumo de productos de pileta | Para piscinas de hasta 60.000 litros | Panel solar de vidrio súper resistente | Ánodo de cobre de 80 mm, se cambia una vez al año | No requiere instalación | Producto ecofriendly
 incluye         = Boya con panel solar | Ánodo de cobre | Cepillo para mantenimiento
 montaje         = Colocar la boya boca abajo sobre un paño | Enroscar el ánodo de cobre hasta que haga tope, con la mano y sin herramientas | Colocar el resorte por fuera del ánodo y mantenerlo presionado para colocar el separador | Asegurar que el resorte esté en contacto con los bornes
 aclaraciones    = La boya funciona mientras reciba luz solar | El único mantenimiento es limpiar el ánodo con el cepillo incluido
@@ -70,8 +70,8 @@ titulo          = Boya ionizadora solar Inverter
 categoria       = Ionización
 resumen         = La boya autolimpiante: invierte la polaridad sola y no necesita limpieza.
 descripcion     = Tiene un panel solar de vidrio súper resistente y dos electrodos de cobre. Su inversor de polaridad hace que los electrodos se desgasten de forma pareja y se mantengan limpios, por lo que no requiere mantenimiento: solo el cambio de electrodos cuando se consumen.
-  A los 7 días de colocada en la piscina se empieza a reducir gradualmente el consumo de productos químicos, hasta un 80%. Cubre piletas de hasta 80.000 litros.
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 80.000 litros | Empieza a reducir químicos a los 7 días | Panel solar de vidrio súper resistente | Dos electrodos de cobre reemplazables | Autolimpiante, con inversor de polaridad | No requiere instalación | No daña el cabello ni irrita los ojos | Producto ecofriendly
+  A los 7 días de colocada en la piscina se empieza a reducir gradualmente el consumo de productos de pileta, hasta un 80%. Cubre piletas de hasta 80.000 litros.
+caracteristicas = Reduce hasta un 80% el consumo de productos de pileta | Para piscinas de hasta 80.000 litros | Resultados desde los 7 días | Panel solar de vidrio súper resistente | Dos electrodos de cobre reemplazables | Autolimpiante, con inversor de polaridad | No requiere instalación | Producto ecofriendly
 incluye         = Boya con panel solar | Dos electrodos de cobre
 montaje         = Colocar la boya boca abajo sobre un paño | Roscar los electrodos de cobre hasta que hagan tope, con la mano y sin herramientas
 aclaraciones    = La boya funciona mientras reciba luz solar | No necesita limpieza: solo cambiar los electrodos cuando se consumen
@@ -90,7 +90,7 @@ opcion_1        = Modelo de tapa: Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT 
 opcion_2        = Electrodos: Ø 25 mm x 80 mm | Ø 16 mm x 80 mm
 precios         = tapa_inverter, electrodos
 precio_nota     = Incluye la tapa Inverter, los dos electrodos y la fuente.
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Electrodos de Ø 25 mm x 80 mm o Ø 16 mm x 80 mm | No daña el cabello ni irrita los ojos | Producto ecofriendly
+caracteristicas = Reduce hasta un 80% el consumo de productos de pileta | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Electrodos de Ø 25 mm x 80 mm o Ø 16 mm x 80 mm | Producto ecofriendly
 incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Fuente de alimentación
 montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la tapa a un toma con la fuente provista
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
@@ -103,13 +103,13 @@ whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico de bom
 titulo          = Ionizador electrónico ECO
 categoria       = Ionización
 resumen         = La opción económica en tapa de bomba, para piletas de hasta 150.000 litros.
-descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, imperceptible para el usuario. Reduce el uso de cloro y otros químicos hasta en un 80%.
+descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, imperceptible para el usuario. Permite reducir hasta un 80% el consumo de productos de pileta.
   En este modelo, el usuario rota periódicamente los ánodos de cobre para invertir su polaridad y lograr un desgaste parejo. Elegí el modelo de tapa de tu bomba y la medida de los electrodos.
 opcion_1        = Modelo de tapa: Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT | Mavi | Lacus | Motorarg | Puelche | Leo | Elektrim | Pearl
 opcion_2        = Electrodos: Ø 25 mm x 80 mm | Ø 16 mm x 80 mm
 precios         = tapa_eco, electrodos
 precio_nota     = Incluye la tapa ECO, los dos electrodos y la fuente de 12 V.
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 150.000 litros | Funciona al mismo tiempo que la bomba | Imperceptible para el usuario | No daña el cabello ni irrita los ojos | Producto ecofriendly
+caracteristicas = Reduce hasta un 80% el consumo de productos de pileta | Para piscinas de hasta 150.000 litros | Funciona al mismo tiempo que la bomba | Imperceptible para el usuario | Producto ecofriendly
 incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Cableado y fuente de 12 V
 montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la ficha de la fuente a la entrada del ionizador y la fuente a un toma
 aclaraciones    = Periódicamente hay que rotar los ánodos de cobre para invertir su polaridad y que se desgasten parejo | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
@@ -124,7 +124,7 @@ categoria       = Ionización
 resumen         = Se instala en la cañería de retorno, dentro de la cabina de la bomba, con fácil acceso.
 descripcion     = Ideal cuando no conviene modificar la tapa de la bomba: el ionizador se monta en una T de PVC de 40 mm sobre la tubería de retorno, antes o después del filtro de arena. Funciona al mismo tiempo que la bomba y es imperceptible para el usuario.
   Incluye la inversión de polos en el circuito interno, por lo que no requiere ningún módulo inversor ni limpieza de ánodos.
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 150.000 litros | Inversión de polos incluida, sin módulo inversor | No requiere limpieza de ánodos ni mantenimiento | Instalación en la cabina de la bomba, de fácil acceso | No daña el cabello ni irrita los ojos | Producto ecofriendly
+caracteristicas = Reduce hasta un 80% el consumo de productos de pileta | Para piscinas de hasta 150.000 litros | Inversión de polos incluida, sin módulo inversor | No requiere limpieza de ánodos ni mantenimiento | Instalación en la cabina de la bomba, de fácil acceso | Producto ecofriendly
 incluye         = Dos ánodos de cobre | T de PVC de 40 mm | Sistema eléctrico | Fuente de 12 V
 montaje         = Apagar la bomba y localizar la tubería de retorno, antes o después del filtro de arena | Cortar la tubería en el lugar elegido para insertar la T de PVC de 40 mm | Instalar la T en posición horizontal, para que los ánodos queden completamente en contacto con el agua | Conectar los extremos de la tubería a los laterales de la T, asegurando un buen sellado | Montar el ionizador en la unión doble con el O-ring y ajustar la tuerca | Conectar la fuente de 12 V (desde el timer de la bomba) al ionizador | Encender la bomba y verificar que no haya fugas y que el ionizador esté operativo
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
