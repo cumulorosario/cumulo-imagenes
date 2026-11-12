@@ -19,15 +19,15 @@ moneda = $
 
 [tapa_inverter]
 # Precio de la tapa Inverter (con fuente), para cualquier modelo de bomba.
-precio =
+# precio =
 # Si un modelo tiene un precio distinto, sacale el # y completalo:
-# Vulcano BAT =
-# Pearl =
+Vulcano BAT = 30000
+Pearl = 35000
 
 [tapa_eco]
 # Precio de la tapa ECO (con fuente de 12 V), para cualquier modelo de bomba.
-precio =
-# Vulcano BAT =
+#precio = 
+Vulcano BAT = 20000
 
 [electrodos]
 # Precio del par de electrodos de cobre según la medida.
