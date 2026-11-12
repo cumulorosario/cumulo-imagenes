@@ -20,30 +20,30 @@ moneda = $
 [tapa_inverter]
 # Precio de la tapa Inverter (con fuente), según el modelo de bomba.
 # Completá el precio de cada modelo. Si queda vacío, la página muestra "Precio a confirmar".
-Vulcano BAE / BAS =
-Vulcano BAP =
-Vulcano BAT = 30000
-Mavi =
-Lacus =
-Motorarg =
-Puelche =
-Leo =
-Elektrim =
-Pearl = 35000
+Vulcano BAE / BAS = 49000
+Vulcano BAP = 53000
+Vulcano BAT = 59000
+Mavi = 59000
+Lacus = 69000
+Motorarg = 53000 
+Puelche = 69000
+Leo = 
+Elektrim = 69000
+Pearl = 
 
 [tapa_eco]
 # Precio de la tapa ECO (con fuente de 12 V), según el modelo de bomba.
 # Completá el precio de cada modelo. Si queda vacío, la página muestra "Precio a confirmar".
-Vulcano BAE / BAS =
-Vulcano BAP =
-Vulcano BAT = 20000
-Mavi =
-Lacus =
-Motorarg =
-Puelche =
-Leo =
-Elektrim =
-Pearl =
+Vulcano BAE / BAS = 34000
+Vulcano BAP = 39000
+Vulcano BAT = 44000
+Mavi = 44000
+Lacus = 54000
+Motorarg = 39000 
+Puelche = 54000
+Leo = 
+Elektrim = 54000
+Pearl = 
 
 [electrodos]
 # Precio del par de electrodos de cobre según la medida.
@@ -56,19 +56,19 @@ Pearl =
 
 [boya_solar]
 # Boya ionizadora solar.
-precio =
+precio = 65000
 
 [boya_solar_inverter]
 # Boya ionizadora solar Inverter.
-precio =
+precio = 80000
 
 [ionizador_tuberia]
 # Ionizador electrónico en tubería 40 mm Inverter (con T de PVC y fuente).
-precio =
+precio = 80000
 
 [aclimatador]
 # Aclimatador diferencial solar (con fuente y sensores).
-precio =
+precio = 125000
 
 # ------------------------------------------------------------
 #  LUCES: precio por UNIDAD según el tipo de luz (la página lo multiplica por la cantidad).
@@ -76,41 +76,41 @@ precio =
 
 [luz_fibra]
 # Luz para piscinas de fibra con pasamuros.
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 69000
+Estática blanca = 63000
 
 [luz_material]
 # Luz para piscinas de material.
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 69000
+Estática blanca = 63000
 
 [luz_inoxidable]
 # Luz inoxidable.
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 74000
+Estática blanca = 68000
 
 [luz_modular_simple]
 # Luz modular simple sin preinstalación.
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 79000
+Estática blanca = 73000
 
 [luz_modular_doble]
 # Luz modular doble sin preinstalación.
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) =  135000
+Estática blanca =  122000
 
 [luz_skimmer_chica]
 # Luz para skimmer boca chica (incluye fuente; la dinámica incluye controlador RGB).
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 145000
+Estática blanca = 132000
 
 [luz_skimmer_ancha]
 # Luz para skimmer boca ancha (incluye fuente; la dinámica incluye controlador RGB).
-Dinámica (RGB) =
-Estática blanca =
+Dinámica (RGB) = 185000
+Estática blanca = 170000
 
 [accesorios]
 # Se suma UNA vez por pedido a las luces de fibra, material, inoxidable y modulares.
 Solo la luz = 0
-Con fuente de 12 V =
-Con fuente de 12 V y controlador RGB =
+Con fuente de 12 V = 15000
+Con fuente de 12 V y controlador RGB = 35000
