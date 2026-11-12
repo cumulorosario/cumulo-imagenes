@@ -1,0 +1,35 @@
+# ============================================================
+#  CLEANPOOL — Lista de precios
+#  (la página cumuloingenieria.com.ar/Cleanpool/ lee este archivo)
+# ============================================================
+#
+# Se edita en GitHub con el lápiz. Los cambios tardan hasta 5 minutos en verse.
+#
+# - Escribí los precios sin signo: 85000 o 85.000 (los dos funcionan).
+# - Si un precio queda vacío, la página muestra "Precio a confirmar"
+#   y el cliente igual puede consultar por WhatsApp.
+# - El precio que ve el cliente es la SUMA de las secciones indicadas en
+#   el campo "precios" de cada producto en cleanpool.txt.
+#   Ionizador de bomba Inverter = [tapa_inverter] + [electrodos]
+#   Ionizador ECO               = [tapa_eco]      + [electrodos]
+# ============================================================
+
+[general]
+moneda = $
+
+[tapa_inverter]
+# Precio de la tapa Inverter (con fuente), para cualquier modelo de bomba.
+precio =
+# Si un modelo tiene un precio distinto, sacale el # y completalo:
+# Vulcano BAT =
+# Pearl =
+
+[tapa_eco]
+# Precio de la tapa ECO (con fuente de 12 V), para cualquier modelo de bomba.
+precio =
+# Vulcano BAT =
+
+[electrodos]
+# Precio del par de electrodos de cobre según la medida.
+Ø 25 mm x 80 mm =
+Ø 16 mm x 80 mm =

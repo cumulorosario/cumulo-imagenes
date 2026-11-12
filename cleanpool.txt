@@ -26,6 +26,14 @@
 #   versiones       → formato  Nombre: detalle | Nombre: detalle
 #   whatsapp_texto  → mensaje con el que se abre WhatsApp al tocar "Consultar".
 #
+# SELECTOR DE OPCIONES Y PRECIO (opcional, por producto):
+#   opcion_1  = Título: valor | valor | valor     (botones para elegir; podés sumar opcion_2, opcion_3...)
+#   precios   = seccion, seccion                  (secciones de precios.txt que se suman)
+#   precio_nota = texto chico debajo del precio
+#   En cada sección de precios.txt se usa el precio del valor elegido
+#   (ej. "Mavi = ..." o "Ø 25 mm x 80 mm = ..."); si no está, se usa "precio".
+#   La selección y el precio se agregan solos al mensaje de WhatsApp.
+#
 # Para ocultar un producto sin borrarlo, poné:  oculto = si
 # ============================================================
 
@@ -78,8 +86,11 @@ categoria       = Ionización
 resumen         = Nuestro ionizador más completo: autolimpiante, invisible y para piletas de hasta 200.000 litros.
 descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, por lo que es imperceptible para el usuario. La inversión de polos está integrada en la tapa, así que no requiere ningún módulo inversor externo ni limpieza de ánodos.
   Tiene luz testigo de funcionamiento y polaridad. Fabricamos la tapa a medida para las bombas más usadas: elegí la marca y el modelo de la tuya.
-versiones       = Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT | Mavi | Lacus | Motorarg | Puelche | Leo | Elektrim | Pearl
-caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Ánodos de 25 mm o 16 mm de diámetro | No daña el cabello ni irrita los ojos | Producto ecofriendly
+opcion_1        = Modelo de tapa: Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT | Mavi | Lacus | Motorarg | Puelche | Leo | Elektrim | Pearl
+opcion_2        = Electrodos: Ø 25 mm x 80 mm | Ø 16 mm x 80 mm
+precios         = tapa_inverter, electrodos
+precio_nota     = Incluye la tapa Inverter, los dos electrodos y la fuente.
+caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Electrodos de Ø 25 mm x 80 mm o Ø 16 mm x 80 mm | No daña el cabello ni irrita los ojos | Producto ecofriendly
 incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Fuente de alimentación
 montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la tapa a un toma con la fuente provista
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
@@ -93,7 +104,11 @@ titulo          = Ionizador electrónico ECO
 categoria       = Ionización
 resumen         = La opción económica en tapa de bomba, para piletas de hasta 150.000 litros.
 descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, imperceptible para el usuario. Reduce el uso de cloro y otros químicos hasta en un 80%.
-  En este modelo, el usuario rota periódicamente los ánodos de cobre para invertir su polaridad y lograr un desgaste parejo. Las dimensiones de la tapa y el diámetro de los ánodos varían según la marca y modelo de la bomba.
+  En este modelo, el usuario rota periódicamente los ánodos de cobre para invertir su polaridad y lograr un desgaste parejo. Elegí el modelo de tapa de tu bomba y la medida de los electrodos.
+opcion_1        = Modelo de tapa: Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT | Mavi | Lacus | Motorarg | Puelche | Leo | Elektrim | Pearl
+opcion_2        = Electrodos: Ø 25 mm x 80 mm | Ø 16 mm x 80 mm
+precios         = tapa_eco, electrodos
+precio_nota     = Incluye la tapa ECO, los dos electrodos y la fuente de 12 V.
 caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 150.000 litros | Funciona al mismo tiempo que la bomba | Imperceptible para el usuario | No daña el cabello ni irrita los ojos | Producto ecofriendly
 incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Cableado y fuente de 12 V
 montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la ficha de la fuente a la entrada del ionizador y la fuente a un toma
