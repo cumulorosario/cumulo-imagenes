@@ -101,13 +101,13 @@ Estática blanca =  122000
 
 [luz_skimmer_chica]
 # Luz para skimmer boca chica (incluye fuente; la dinámica incluye controlador RGB).
-Dinámica (RGB) = 145000
-Estática blanca = 132000
+Dinámica (RGB) = 178000
+Estática blanca = 130000
 
 [luz_skimmer_ancha]
 # Luz para skimmer boca ancha (incluye fuente; la dinámica incluye controlador RGB).
-Dinámica (RGB) = 185000
-Estática blanca = 170000
+Dinámica (RGB) = 215000
+Estática blanca = 195000
 
 [accesorios]
 # Se suma UNA vez por pedido a las luces de fibra, material, inoxidable y modulares.
