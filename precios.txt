@@ -55,21 +55,18 @@ precio =
 precio =
 
 # ------------------------------------------------------------
-#  LUCES: precio por unidad según el tipo de luz.
-#  Si la estática blanca y la azul valen lo mismo, cargá el mismo número en las dos.
+#  LUCES: precio por UNIDAD según el tipo de luz (la página lo multiplica por la cantidad).
 # ------------------------------------------------------------
 
 [luz_fibra]
 # Luz para piscinas de fibra con pasamuros.
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [luz_material]
 # Luz para piscinas de material.
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [luz_inoxidable]
 # Luz inoxidable.
@@ -80,28 +77,24 @@ Estática blanca =
 # Luz modular simple sin preinstalación.
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [luz_modular_doble]
 # Luz modular doble sin preinstalación.
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [luz_skimmer_chica]
 # Luz para skimmer boca chica (incluye fuente; la dinámica incluye controlador RGB).
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [luz_skimmer_ancha]
 # Luz para skimmer boca ancha (incluye fuente; la dinámica incluye controlador RGB).
 Dinámica (RGB) =
 Estática blanca =
-Estática azul =
 
 [accesorios]
-# Se suma al precio de las luces de fibra, material, inoxidable y modulares.
+# Se suma UNA vez por pedido a las luces de fibra, material, inoxidable y modulares.
 Solo la luz = 0
 Con fuente de 12 V =
 Con fuente de 12 V y controlador RGB =
