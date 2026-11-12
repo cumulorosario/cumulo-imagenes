@@ -31,5 +31,5 @@ Vulcano BAT = 20000
 
 [electrodos]
 # Precio del par de electrodos de cobre según la medida.
-Ø 25 mm x 80 mm =
-Ø 16 mm x 80 mm =
+Ø 25 mm x 80 mm = 58000
+Ø 16 mm x 80 mm = 29000
