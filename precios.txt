@@ -33,3 +33,75 @@ Vulcano BAT = 20000
 # Precio del par de electrodos de cobre según la medida.
 Ø 25 mm x 80 mm = 58000
 Ø 16 mm x 80 mm = 29000
+
+# ============================================================
+#  OTROS PRODUCTOS
+# ============================================================
+
+[boya_solar]
+# Boya ionizadora solar.
+precio =
+
+[boya_solar_inverter]
+# Boya ionizadora solar Inverter.
+precio =
+
+[ionizador_tuberia]
+# Ionizador electrónico en tubería 40 mm Inverter (con T de PVC y fuente).
+precio =
+
+[aclimatador]
+# Aclimatador diferencial solar (con fuente y sensores).
+precio =
+
+# ------------------------------------------------------------
+#  LUCES: precio por unidad según el tipo de luz.
+#  Si la estática blanca y la azul valen lo mismo, cargá el mismo número en las dos.
+# ------------------------------------------------------------
+
+[luz_fibra]
+# Luz para piscinas de fibra con pasamuros.
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[luz_material]
+# Luz para piscinas de material.
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[luz_inoxidable]
+# Luz inoxidable.
+Dinámica (RGB) =
+Estática blanca =
+
+[luz_modular_simple]
+# Luz modular simple sin preinstalación.
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[luz_modular_doble]
+# Luz modular doble sin preinstalación.
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[luz_skimmer_chica]
+# Luz para skimmer boca chica (incluye fuente; la dinámica incluye controlador RGB).
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[luz_skimmer_ancha]
+# Luz para skimmer boca ancha (incluye fuente; la dinámica incluye controlador RGB).
+Dinámica (RGB) =
+Estática blanca =
+Estática azul =
+
+[accesorios]
+# Se suma al precio de las luces de fibra, material, inoxidable y modulares.
+Solo la luz = 0
+Con fuente de 12 V =
+Con fuente de 12 V y controlador RGB =
