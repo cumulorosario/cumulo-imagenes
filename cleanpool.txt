@@ -54,7 +54,7 @@ montaje         = Colocar la boya boca abajo sobre un paño | Enroscar el ánodo
 aclaraciones    = La boya funciona mientras reciba luz solar | El único mantenimiento es limpiar el ánodo con el cepillo incluido
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país. En Rosario, Funes y Pueblo Esther también con pago contra entrega.
-fotos           = 1-a.png
+fotos           = 1-a.png, 1-b.png
 whatsapp_texto  = ¡Hola! Quería consultar por la boya ionizadora solar
 
 [producto_02]
@@ -77,15 +77,15 @@ titulo          = Ionizador electrónico de bomba Inverter
 categoria       = Ionización
 resumen         = Nuestro ionizador más completo: autolimpiante, invisible y para piletas de hasta 200.000 litros.
 descripcion     = Se instala en lugar de la tapa del prefiltro de la bomba y funciona al mismo tiempo que ella, por lo que es imperceptible para el usuario. La inversión de polos está integrada en la tapa, así que no requiere ningún módulo inversor externo ni limpieza de ánodos.
-  Tiene luz testigo de funcionamiento y polaridad. Las dimensiones de la tapa se adaptan a la marca y modelo de cada bomba.
-versiones       = Tapa MAVI | Tapa BAT | Tapa BAP | Tapa BAE / BAS
+  Tiene luz testigo de funcionamiento y polaridad. Fabricamos la tapa a medida para las bombas más usadas: elegí la marca y el modelo de la tuya.
+versiones       = Vulcano BAE / BAS | Vulcano BAP | Vulcano BAT | Mavi | Lacus | Motorarg | Puelche | Leo | Elektrim | Pearl
 caracteristicas = Reduce el uso de cloro y otros químicos hasta en un 80% | Para piscinas de hasta 200.000 litros | Inversión de polos integrada en la tapa | No requiere limpieza de ánodos ni mantenimiento | Luz testigo de funcionamiento y polaridad | Ánodos de 25 mm o 16 mm de diámetro | No daña el cabello ni irrita los ojos | Producto ecofriendly
 incluye         = Tapa de bomba modificada | Dos ánodos de cobre | Fuente de alimentación
 montaje         = Enroscar los ánodos de cobre en la tapa modificada hasta que hagan tope, con la mano y sin herramientas | Desenroscar el aro de la tapa de la bomba | Retirar el O-ring de la tapa original y colocarlo en la tapa modificada | Ubicar la tapa modificada con los ánodos en su lugar | Conectar la tapa a un toma con la fuente provista
 aclaraciones    = Debe instalarse en la misma cabina donde está la bomba de la piscina | Es importante ajustar el tiempo de filtrado según las condiciones de cada piscina | Debe conectarse junto al timer que activa la bomba, para que funcionen al mismo tiempo. Si no, tendrá un consumo continuo que reduce la vida útil de los ánodos a un mes
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = 3-a.jpg, 3-b.jpg
+fotos           = 3-a.jpg, 3-b.png
 whatsapp_texto  = ¡Hola! Quería consultar por el ionizador electrónico de bomba Inverter
 
 [producto_04]
