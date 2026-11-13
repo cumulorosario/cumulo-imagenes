@@ -71,7 +71,7 @@ montaje         = Retirar el marco del skimmer | Hacerle una muesca en la parte 
 aclaraciones    = No incluye el marco del skimmer | En la versión estática conviene conectar la fuente a un toma con interruptor para encender y apagar las luces
 garantia        = 6 meses por defectos de fabricación. Contamos con todos los repuestos.
 envio           = Sin costo a todo el país
-fotos           = 1-a.png, 1-b.png, 1-c.jpg, 1-d.jpg
+fotos           = 1-a.png, 1-b.png, 1-c.jpg, 1-d.jpg, 1-e.png
 whatsapp_texto  = ¡Hola! Quería consultar por la luz para skimmer boca chica
 
 [producto_02]
